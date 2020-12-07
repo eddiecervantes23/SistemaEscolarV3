@@ -1,0 +1,14 @@
+{
+    "name": "claudia/escuela",
+    "description": "Sistema Escolar",
+    "authors": [
+        {
+            "name": "Eddie Cervantes",
+            "email": "kurtediladen@gmail.com"
+        }
+    ],
+    "require": {
+        "illuminate/database": "^8.14",
+        "illuminate/events": "^8.14"
+    }
+}
